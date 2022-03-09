@@ -1,3 +1,5 @@
+cd 'C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.18.431.0_x64__8wekyb3d8bbwe\'
+
 winget install microsoft.office --accept-package-agreements --accept-source-agreements
 winget install lenovo.systemupdate --accept-package-agreements --accept-source-agreements
 winget install OpenVPNTechnologies.OpenVPN --accept-package-agreements --accept-source-agreements
